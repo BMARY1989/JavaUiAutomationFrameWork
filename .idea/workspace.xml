@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d0aed5-4d63-49ff-ac81-b4590cc0a86d" name="Changes" comment="Set up the UI ATF framework structure">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/opencart/managers/DriverManager.java" afterDir="false" />
+    <list default="true" id="59d0aed5-4d63-49ff-ac81-b4590cc0a86d" name="Changes" comment="Inmplemented the DriverManager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/opencart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/opencart/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/opencart/managers/ExampleManager.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/user/Desktop/JavaUiAutomationFramework/src/main/java/com/opencart/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "TA-1__SeleniumWebDriverImplementation",
+    "onboarding.tips.debug.path": "/Users/user/Desktop/JavaUiAutomationFramework/src/main/java/com/opencart/Main.java",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.opencart.Main" />
@@ -90,11 +86,79 @@
       <option name="project" value="LOCAL" />
       <updated>1697474752629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543281285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543281285</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543449791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543449791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543479011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543479011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543514242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543514242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543692339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543692339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543729828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543729828</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inmplemented the DriverManager">
+      <option name="closed" value="true" />
+      <created>1697543747590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543747590</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Set up the UI ATF framework structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up the UI ATF framework structure" />
+    <MESSAGE value="Inmplemented the DriverManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inmplemented the DriverManager" />
   </component>
 </project>
